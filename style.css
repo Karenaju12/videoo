@@ -1,0 +1,38 @@
+h3 {
+    color: orange;
+	font-size: 35px;
+	font-family: Georgia, 'Times New Roman', Times, serif;
+    	} 
+	
+       h2 {
+           color:  blueviolet;
+		   font-size: 35px;
+		   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    	} 
+    	p {
+           color: black;
+		   font-size: 35px;
+		   font-family: Verdana, Geneva, Tahoma, sans-serif;
+    	} 
+
+		li {
+			color: fuchsia;
+			font-size: 35px;
+			font-family: 'Times New Roman', Times, serif;
+		 } 
+		 img {
+			width: 200px;
+			border-width: 5px;
+			border-color: deeppink;
+			border-style: double;
+           }
+		   .bordes-redonde {
+			border-radius: 50px;
+		   }
+		   div {
+			background-color: aqua;
+		   }
+		a {
+			font-size: 35px;
+			color: black;
+		}
